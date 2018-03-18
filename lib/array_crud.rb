@@ -8,9 +8,10 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  end
+  create_an_array.push("arrays!")
+end
 
-create_an_array.push("arrays!")
+
 
 def add_element_to_start_of_array(array, element)
   create_an_array.unshift("wow")
