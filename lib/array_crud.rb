@@ -22,7 +22,7 @@ def remove_element_from_end_of_array(array)
   create_an_array.pop
 end
 
-remove_element_from_end_of_array("arrays!")
+remove_element_from_end_of_array(-1)
 
 def remove_element_from_start_of_array(array)
   create_an_array.shift
